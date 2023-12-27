@@ -1,6 +1,6 @@
 body {
   margin: 20px;
-  background-color: lightgrey;
+  background-color: #ffe5e9;
 }
 
 .app-container {
@@ -70,7 +70,7 @@ input {
 
 .note-form button {
   border-radius: 5px;
-  background-color: rgb(64, 154, 184);
+  background-color: #ff6ab9;
   border: none;
   padding: 10px;
   font-size: 16px;
@@ -78,7 +78,7 @@ input {
 }
 
 .note-form button:hover {
-  background-color: rgb(106, 175, 198);
+  background-color: #ff6ab9;
   cursor: pointer;
 }
 
@@ -93,6 +93,6 @@ input {
 }
 
 .edit-buttons button:last-of-type {
-  background-color: rgb(220,89,89);
+  background-color: #bea2ff;
   color: white;
 }
